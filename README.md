@@ -9,7 +9,7 @@
 ## Language
   * Python
 
-## Python Technologies 
+## Libraries 
   * pandas
   * numpy
   * matplotlib
